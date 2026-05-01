@@ -40,7 +40,7 @@ public class Main {
         System.out.println("Conteúdos Concluídos Alex: " + devAlex.getConteudosConcluidos());
         System.out.println("XP:" + devAlex.calcularTotalXp());
 
-        System.out.println(System.lineSeparator()+"             ======================================================================================================================"+ System.lineSeparator());
+        System.out.println(System.lineSeparator()+"             ================================================================================================================================="+ System.lineSeparator());
 
         Dev devJoao = new Dev();
         devJoao.setNome("Joao");
